@@ -1,0 +1,8 @@
+<svg width="300" height="150" xmlns="http://www.w3.org/2000/svg">
+
+<!-- Define the rounded square -->
+<rect x="20" y="30" width="260" height="90" rx="20" ry="20" fill="black" />
+
+<!-- Define the letter S -->
+<text x="50%" y="55%" dominant-baseline="middle" text-anchor="middle" font-family="Arial" font-size="50" font-weight="bold" fill="cyan">SIEMENS</text>
+</svg>
